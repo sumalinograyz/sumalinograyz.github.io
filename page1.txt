@@ -1,24 +1,32 @@
 <html>
+
 <head>
-<title>|HOME|</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>FAVORITES</title>
+
 <style>
 th {padding: 15px;}
+a {color: black; background-color: transparent; text-decoration: none;}
 </style>
+
 </head>
-<body>
+
+<body style="font-size:130%;">
 
 <center>
 
 <a href="index.html">
 <img src="homepic.jpg" alt="homepic" style="width:300;">
-<h1 style="text-align: center;">RAYZEL MAY</h1>
+<h1 style="text-align: center;">HOME</h1>
 </a>
 
-<caption>Learn More About Me</caption>
+<caption>-----Learn More About Me-----</caption>
 
 <hr>
 
-<table>
+<table style="font-size:130%;">
 <tr>
 <th><a href="page1.html">Favorites</a></th>
 </tr>
@@ -26,9 +34,71 @@ th {padding: 15px;}
 
 <hr>
 
-<h3>Things that I considered as my favorites</h3>
+<br>
+
+<h2>Things that I considered as my favorites</h2>
 
 </center>
+
+<p>
+I can say so to myself that I'm carefree enough to most likely to discover new things that may caught to my interest, especially during this whole pandemic. I always found myself enjoying different kinds of hobbies such as: painting using watercolor to acrylic, drawing/sketching traditional to digital arts, playing(ukelele) and listening to various music genre, editing some videos to pictures, reading novels to western and asian comics, writing short stories to novels and scripts, fangirling to fiction characters to real life people or idols, and watching indie movie/films to high-end dramas. Just saying I casually enjoyed those things, because I knew myself that I easily get bored and gain new interest to other discoveries. Anyway here are the things that I considered as my favorites from the most favored to least ones.
+</p>
+
+<ol>
+
+<strong><li>Translated Chinese WebNovels</li></strong><br>
+<img src="pic1.jpg" alt="collage-bl" style="width:300;">
+<p>I really love reading, especially translated webnovels<i>(though my interest leaned more on shounen ai, transmigration and rebirth tags)</i>. It's like a drug for me to be honest, because most of the works that I have read are unique yet refreshing; there's almost no plot holes; if it's tragic expect tear-jearking scenes; and if you stumbled upon to a good scan translation site, that would be immaculately perfect. I mostly find these stories at Chrysanthemum Garden<i>(to easily find completed translated ones)</i>, Wattpad<i>(for offline purposes)</i>, Novel Updates<i>(to see better recommendations and any other translation sites to read)</i>.</p>
+
+<pre>The title of the book covers are:
+<ul>
+<li>Quickly Wear the Face of the Devil</li>
+<li>Ten Years That I Loved You The Most</li>
+<li>Rebirth Of A Movie Star</li>
+<li>Jīng Jiǔ / Salad Days</li>
+</ul>
+</pre>
+
+<strong><li>Reading Stories About Strong Female Leads</li></strong><br>
+<img src="pic2.jpg" alt="collage2" style="width:300;">
+<p>Since I really love BL Stories ever since I remember<i>(6-7 years from now to be exact lol)</i>, my interest when it comes to female as main character are at the very bottom of my favorite charts. <b>BUT</b> this past few months I red a beautiful story about female main character who doesn't need a prince charming to save her. That's the most satisfying story I've ever red since that day. So, I scrolled almost everywhere to find those stories that focuses on character and plot development, revenge, villainess, quick transmigration and entertainment tags. Back then I read those stories at Fanfox.net but now I'm always in Tachiyomi<i>(an apk app that you can easily download and it has every sources to read from)</i>.</p>
+
+<pre>The title of the book covers are:
+<ul>
+<li>Crimson Karma</li>
+<li>Shadow Queen</li>
+<li>Remarried Empress</li>
+<li>Cheating Men Must Die</li>
+</ul>
+</pre>
+
+<strong><li>Watching Anime</li></strong><br>
+<img src="pic3.jpg" alt="collage3" style="width:300;">
+<p>I grew up watching anime, I meet my best of friends because of it. Watching Anime is my thing since I was late elementary student days; I remembered that anime is always like a best friend to me, it comforted me a lot of times, made me escape of troublesome things, gave me memorable advice about friendships and all. It's funny because my very first love and crush was a 2D anime character from Ao Haru Ride, and I still get those butterflies and tingling effect on my stomach whenever I rewatched it couple of times. I always watch anime on Kissanime and Chrunchyroll sites. If I really can't find anywhere of those, I'm on facebook watching illegally.</p>
+
+<pre>The title of the Anime covers are:
+<ul>
+<li>Ao Haru Ride</li>
+<li>Dr.Stone</li>
+<li>Overlord</li>
+<li>That Time I Got Reincarnated as a Slime</li>
+</ul>
+</pre>
+
+<strong><li>Watching BL movies and drama series</li></strong><br>
+<img src="pic4.jpg" alt="collage4" style="width:300;">
+<p>I liked watching BL movies and drama series that were adapted from the books that I have/have not yet read. It's like all those excitement, expectations and the feeling of pride are on the top of my heart, like wow. Of course there are times that my expectations weren't met such as the Chinese drama series of Guardian, due to changing the original plot and script stories. And yet the there are parts of the industries didn't let a fan, like me, expectations down. Ever since last year, there are a lot of BL films that are being adapted or newly created, it will only be up to you on how you find the best gems among the hundreds.</p>
+
+<pre>The title of the Film covers are:
+<ul>
+<li>Theory Of Love</li>
+<li>Maurice (1945)</li>
+<li>Call Me By Your Name</li>
+<li>Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!</li>
+</ul>
+</pre>
+
+</ol>
 
 </body>
 </html>
