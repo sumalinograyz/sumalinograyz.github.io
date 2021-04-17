@@ -1,22 +1,44 @@
 <html>
 <head>
-<title>|HOME|</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>HOME</title>
+<style>
+th {padding: 15px;}
+a {color: black; background-color: transparent;text-decoration: none;}
+</style>
 </head>
-<body>
+<body style="font-size:130%;">
 
-<h1>RAYZEL MAY</h1>
-<table style="width: 100%">
-	<tr>
-		<th>Home</th>
-		<th>Favorites</th>
-	</tr>
+<center>
+
+<a href="index.html">
+<img src="homepic.jpg" alt="homepic" style="width:300;">
+<h1 style="text-align: center;">HOME</h1>
+</a>
+
+<caption>-----Learn More About Me-----</caption>
+
+<hr>
+
+<table style="font-size:130%;">
+<tr>
+<th><a href="page1.html">Favorites</a></th>
+</tr>
 </table>
 
-<br>
+<hr>
 
-<p>
-	here is the f description
-</p>
+</center>
+
+<h2>BASIC INFORMATION</h2>
+<pre>
+<em>NAME:</em> Rayzel May P. Sumalinog
+<em>COURSE/YEAR/SECTION:</em> BSIT1-3
+<em>UNIVERSITY:</em> Cavite State University
+<em>BIRTHDAY:</em> August 03, 2002
+<em>RELIGION:</em> Catholic
+<em>ADDRESS:</em> Sunny Brooke 1, General Trias, Cavite
+</pre>
 
 </body>
 </html>
