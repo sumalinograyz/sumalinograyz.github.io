@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>|HOME|</title>
+</head>
+<body>
+
+<h1>RAYZEL MAY</h1>
+<table style="width: 100%">
+	<tr>
+		<th>Home</th>
+		<th>Favorites</th>
+	</tr>
+</table>
+
+<br>
+
+<p>
+	here is the f description
+</p>
+
+</body>
+</html>
